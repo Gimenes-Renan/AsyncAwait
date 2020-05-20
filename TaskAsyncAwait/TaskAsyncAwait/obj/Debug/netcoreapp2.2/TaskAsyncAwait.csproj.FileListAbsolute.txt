@@ -1,0 +1,11 @@
+C:\compartilhado\Projeto Task\TaskAsyncAwait\TaskAsyncAwait\obj\Debug\netcoreapp2.2\TaskAsyncAwait.csprojAssemblyReference.cache
+C:\compartilhado\Projeto Task\TaskAsyncAwait\TaskAsyncAwait\obj\Debug\netcoreapp2.2\TaskAsyncAwait.csproj.CoreCompileInputs.cache
+C:\compartilhado\Projeto Task\TaskAsyncAwait\TaskAsyncAwait\obj\Debug\netcoreapp2.2\TaskAsyncAwait.AssemblyInfoInputs.cache
+C:\compartilhado\Projeto Task\TaskAsyncAwait\TaskAsyncAwait\obj\Debug\netcoreapp2.2\TaskAsyncAwait.AssemblyInfo.cs
+C:\compartilhado\Projeto Task\TaskAsyncAwait\TaskAsyncAwait\bin\Debug\netcoreapp2.2\TaskAsyncAwait.deps.json
+C:\compartilhado\Projeto Task\TaskAsyncAwait\TaskAsyncAwait\bin\Debug\netcoreapp2.2\TaskAsyncAwait.runtimeconfig.json
+C:\compartilhado\Projeto Task\TaskAsyncAwait\TaskAsyncAwait\bin\Debug\netcoreapp2.2\TaskAsyncAwait.runtimeconfig.dev.json
+C:\compartilhado\Projeto Task\TaskAsyncAwait\TaskAsyncAwait\bin\Debug\netcoreapp2.2\TaskAsyncAwait.dll
+C:\compartilhado\Projeto Task\TaskAsyncAwait\TaskAsyncAwait\bin\Debug\netcoreapp2.2\TaskAsyncAwait.pdb
+C:\compartilhado\Projeto Task\TaskAsyncAwait\TaskAsyncAwait\obj\Debug\netcoreapp2.2\TaskAsyncAwait.dll
+C:\compartilhado\Projeto Task\TaskAsyncAwait\TaskAsyncAwait\obj\Debug\netcoreapp2.2\TaskAsyncAwait.pdb
